@@ -1,0 +1,34 @@
+Learning Mode ----->1 Concept Learning ---->Delivered by the trainer
+                       ----->2 Hands-On Demoz ---->Deliver by trainer as recordings & QA
+	           ----->3 Trainee to do the Hands-On
+
+
+Recording Downloads : 
+
+Day1:DevOps Fundamentals and Git Essentials
+links valid until 2020-03-23 6:00 UTC (SSO protected)
+1. The file(s) can be downloaded with the following URL(s):
+https://fts.capgemini.com/private/2228471102592/DevOpsFundamentals.mp4 Duration 1hr:50 mins.
+2. Git & GitHub
+https://fts.capgemini.com/private/773263891879/DevOps1InstallingGitbash.mp4 
+https://fts.capgemini.com/private/28942298725516/DevOps2creatingandcloningaremotegitHubrepository.zip 
+https://fts.capgemini.com/private/28942298725516/DevOps3creatingafileandpushingittoremoterepo.zip 
+https://fts.capgemini.com/private/28942298725516/DevOps4createingalocalgitrepoandpushingtoremoterepo.zip
+https://fts.capgemini.com/private/28942298725516/DevOps5creatingalocalbranchandpushingtomakeremotebranch.zip
+https://fts.capgemini.com/private/28942298725516/DevOps6pushingtoexistingremotebranch.zip
+https://fts.capgemini.com/private/28942298725516/DevOps7gitmerge.zip 
+
+Day 2:Introduction to Jenkins and Jenkins jobs
+links valid until 2020-03-23 6:00 UTC (SSO protected)
+https://fts.capgemini.com/private/10059925809573/DevOps8InstallingUbuntuVMonAzureCloud.zip 
+https://fts.capgemini.com/private/10059925809573/DevOps8_1InstallingUbuntuVMonAWSCloud.mp4 
+https://fts.capgemini.com/private/10059925809573/DevOps9ConnectingtoUbuntuVM.mp4 
+https://fts.capgemini.com/private/10059925809573/DevOps9_1TroubleShootingAzureUbuntuVMconnectivity.mp4 
+https://fts.capgemini.com/private/10059925809573/DevOps8_2SecurityGroupconfigurationfortroubleshootingawsvirtucalmachineconnection..txt 
+https://fts.capgemini.com/private/10059925809573/DevOps10InstallingJenkinsusingUbuntuspecificcommands.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps10_1troubleshootingJenkinsinstallation.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps11JenkinsFreestyleJob.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps12JenkinsGitHubIntegration.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps12_1JenkinsPipelineProjects.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps12_2JenkinsDockerIntegrationJenkinsautobuildsimagesandpushesondockerhub.mp4
+https://fts.capgemini.com/private/10059925809573/DevOps13Jenkinsrecap.mp4
